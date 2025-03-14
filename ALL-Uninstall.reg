@@ -6,6 +6,7 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\Directory\shell\run100FileListClipboard]
 [-HKEY_CLASSES_ROOT\Directory\shell\run110FileListNotepad]
 [-HKEY_CLASSES_ROOT\Directory\shell\run200CommandPrompt]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\run200CommandPrompt]
 [-HKEY_CLASSES_ROOT\Directory\shell\run210PowerShell5]
 [-HKEY_CLASSES_ROOT\Directory\shell\run220PowerShell5ISE]
 [-HKEY_CLASSES_ROOT\Directory\shell\run230PowerShell7]
