@@ -8,10 +8,12 @@ Windows Registry Editor Version 5.00
 ;TOOL_List-in-Clipboard.reg | List files in Clipboard
 [-HKEY_CLASSES_ROOT\Directory\shell\run100FileListClipboard]
 [-HKEY_CLASSES_ROOT\Drive\shell\run100FileListClipboard]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\run100FileListClipboard]
 
 ;TOOL_List-in-Notepad.reg | List files in Notepad
 [-HKEY_CLASSES_ROOT\Directory\shell\run110FileListNotepad]
 [-HKEY_CLASSES_ROOT\Drive\shell\run110FileListNotepad]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\run110FileListNotepad]
 
 ;TOOL_Lock-BitLocker-Drive.reg
 [-HKEY_CLASSES_ROOT\Drive\shell\run400LockBitLocker]
