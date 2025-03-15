@@ -167,18 +167,6 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 
 💿 To install this tool separately, just run `PowerShell7-here.reg` and confirm 3 dialog boxes. It replaces existing *PowerShell 7* context menu. To install [bundle it's here](#-install-all-tools).
 
-## ![gitbash-icon] Git Bash (and Git GUI) here
-
-- Let you run ***Git Bash*** and ***Git GUI*** from any folder.
-
-- ⚠**Requires** [install of Git] into default directory `C:\Program Files\Git\`.
-
-[install of Git]: <https://git-scm.com/download/win>
-
-- Replaces *Git default context menu* to get a clean cascaded menu and *run as Admin feature*.
-
-💿 To install this tool separately, just run `Git-here.reg` and confirm 3 dialog boxes. It replaces existing *Git* context menu. To install [bundle it's here](#-install-all-tools).
-
 ## ![windowsterminal-icon] Windows Terminal here
 
 - Let you run latest ***Windows Terminal*** located in Path Environment `wt.exe`, from any folder.
@@ -192,6 +180,18 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 - Run `WindowsTerminal-here.reg`
 - Copy `WindowsTerminal.ico` to `C:\Windows\System32\` (this is necessary because *Windows Terminal* icon path always change with auto-updates provided by *Microsoft Store*).
 - [Below instructions](#-open-in-terminal-default-context-menu) to remove/restore *Open in Terminal* context menu provided by *Windows Terminal install*.
+
+## ![gitbash-icon] Git Bash (and Git GUI) here
+
+- Let you run ***Git Bash*** and ***Git GUI*** from any folder.
+
+- ⚠**Requires** [install of Git] into default directory `C:\Program Files\Git\`.
+
+[install of Git]: <https://git-scm.com/download/win>
+
+- Replaces *Git default context menu* to get a clean cascaded menu and *run as Admin feature*.
+
+💿 To install this tool separately, just run `Git-here.reg` and confirm 3 dialog boxes. It replaces existing *Git* context menu. To install [bundle it's here](#-install-all-tools).
 
 ---
 
@@ -209,7 +209,7 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 
 - You can run install as many times as you want, it always deletes previous installation.
 
-## 🚫 Uninstall all tools
+## ❌ Uninstall all tools
 
 - **Run `ALL-Uninstall.reg` to remove all tools automatically.**
 
@@ -219,7 +219,7 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 
 | | Windows 11 new context menu | *Open in Terminal* default context menu provided by [Windows Terminal] |
 | :--- | :--- | :--- |
-| 🚫 To remove | Run `Windows11ContextMenu-remove-(need-restart).reg`, then logoff/logon. | Run `WindowsTerminalDefaultMenu-remove-(need-restart).reg`, then logoff/logon. |
+| ❌ To remove | Run `Windows11ContextMenu-remove-(need-restart).reg`, then logoff/logon. | Run `WindowsTerminalDefaultMenu-remove-(need-restart).reg`, then logoff/logon. |
 | 📦 To restore | Run `Windows11ContextMenu-restore-(need-restart).reg`, then logoff/logon. | Run `WindowsTerminalDefaultMenu-restore-(need-restart).reg`, then logoff/logon. |
 
 ---
