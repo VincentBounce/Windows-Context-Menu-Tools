@@ -1,8 +1,6 @@
 Windows Registry Editor Version 5.00
 
-; WindowsContextMenuTools created by VincentBounce
-
-;removing tools from .reg files
+;Removing tools from regedit | WindowsContextMenuTools created by VincentBounce
 
 ;List-in-Clipboard.reg | List files in Clipboard
 [-HKEY_CLASSES_ROOT\Directory\shell\run100FileListClipboard]

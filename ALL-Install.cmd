@@ -1,4 +1,6 @@
+::Installing tools | WindowsContextMenuTools created by VincentBounce
 ::not working if called from an UNC path
+
 @echo off
 color F0
 title Context Menu Tools for Windows File Explorer install
