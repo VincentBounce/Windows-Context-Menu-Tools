@@ -28,14 +28,14 @@ exit /b
 color F9 & echo Install...
 cd "%SCRIPT_PATH%"
 
-regedit /s List-in-Clipboard.reg
-regedit /s List-in-Notepad.reg
-regedit /s Lock-BitLocker-Drive.reg
-regedit /s Get-fileHash.reg
-regedit /s Wipe-free-space.reg
-regedit /s PowerShell5-ISE-here.reg
-::regedit /s PowerShell7-here.reg
-::regedit /s Git-here.reg
+regedit /s TOOL_Get-fileHash.reg
+regedit /s TOOL_List-in-Clipboard.reg
+regedit /s TOOL_List-in-Notepad.reg
+regedit /s TOOL_Lock-BitLocker-Drive.reg
+::regedit /s TOOL_PromptHereOptional-Git.reg
+::regedit /s TOOL_PromptHereOptional-PowerShell7.reg
+regedit /s TOOL_PromptHere-PowerShell5-ISE.reg
+regedit /s TOOL_Shredder-Wipe-free-space.reg
 
 ::<WINDOWS11_DETECT is Windows 11?>
 for /f "tokens=4 delims=[] " %%a in ('ver') do set v=%%a
@@ -53,10 +53,10 @@ goto:WINDOWS11_DETECT_END
     endlocal
     echo Windows 11 not detected.
     ::these tools are not built-in Windows 7-10
-    regedit /s CommandPrompt-here.reg
-    regedit /s PowerShell5-here.reg
+    TOOL_PromptHereW10-CMD.reg
+    TOOL_PromptHereW10-PowerShell5.reg
+    TOOL_PromptHereW10-WindowsTerminal.reg
     copy WindowsTerminal.ico %SystemRoot%\System32\
-    regedit /s WindowsTerminal-here.reg
 goto:WINDOWS11_DETECT_END
 
 :WINDOWS11_DETECT_END
