@@ -56,6 +56,8 @@ Lists files/folders contained in any folder and copy the list to the Clipboard.
 
 Lists files/folders contained in any folder and displays the list in a temporary Notepad file that disappears as soon as you close it.
 
+- ⚠**Windows 11 requires** to configure Notepad: Notepad > ⚙️ > *When Notepad starts* > select *Start new session and discard unsaved changes*
+
 💿 To install this tool separately, just run `TOOL_List-in-Notepad.reg` and confirm 3 dialog boxes. To install [bundle it's here](#-install-all-tools).
 
 ---
