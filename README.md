@@ -171,7 +171,7 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 
 - Let you run latest ***Windows Terminal*** located in Path Environment `wt.exe`, from any folder.
 
-- ⚠**Requires** install of [Windows Terminal] directly from Microsoft Store.
+- ⚠**Windows 10 requires** install of [Windows Terminal] directly from Microsoft Store
 
 - *Windows Terminal default context menu* can be disabled, to get both clean **cascaded menu** and ***run as Admin feature*** instead.
 
