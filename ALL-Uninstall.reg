@@ -19,10 +19,10 @@ Windows Registry Editor Version 5.00
 ;PowerShell5-here.reg | PowerShell 5 here | useless in Windows 11
 [-HKEY_CLASSES_ROOT\Directory\shell\run210PowerShell5]
 
-;PowerShell5-ISE-here.reg | PowerShell 5 ISE here | useless in Windows 11
+;PowerShell5-ISE-here.reg | PowerShell 5 ISE here
 [-HKEY_CLASSES_ROOT\Directory\shell\run220PowerShell5ISE]
 
-;PowerShell7-here.reg | PowerShell 7 here | useless in Windows 11
+;PowerShell7-here.reg | PowerShell 7 here
 [-HKEY_CLASSES_ROOT\Directory\shell\run230PowerShell7]
 
 ;WindowsTerminal-here.reg | Windows Terminal here | useless in Windows 11

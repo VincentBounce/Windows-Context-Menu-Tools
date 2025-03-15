@@ -135,13 +135,13 @@ Each ***prompt here*** Tool:
 
 - On Windows 11 only, if optional [Windows Terminal] is installed, it opens prompt inside
 
-## ![commandprompt-icon] Command Prompt here
+## ![commandprompt-icon] Command Prompt here | ☝️built-in Windows 11
 
 Let you run built-in ***Command Prompt*** located in Path Environment `cmd.exe` from any folder.
 
 💿 To install this tool separately, just run `CommandPrompt-here.reg` and confirm 3 dialog boxes. To install [bundle it's here](#-install-all-tools).
 
-## ![powershell5-icon] PowerShell 5 here
+## ![powershell5-icon] PowerShell 5 here | ☝️built-in Windows 11
 
 Let you run built-in ***Windows PowerShell*** located in Path Environment `powershell.exe`, from any folder. By default it's always *Windows PowerShell x64* on Windows 64-bits.
 
@@ -167,7 +167,7 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 
 💿 To install this tool separately, just run `PowerShell7-here.reg` and confirm 3 dialog boxes. It replaces existing *PowerShell 7* context menu. To install [bundle it's here](#-install-all-tools).
 
-## ![windowsterminal-icon] Windows Terminal here
+## ![windowsterminal-icon] Windows Terminal here | ☝️built-in Windows 11
 
 - Let you run latest ***Windows Terminal*** located in Path Environment `wt.exe`, from any folder.
 
