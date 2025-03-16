@@ -4,7 +4,7 @@
 
 Bundle of best ***Windows shell File Explorer context menu tools*** sorted and organized in cascaded menus.
 
-- All tools are light because condensed in command-lines **using only Windows 10-11 built-in commands**.
+- All tools are light because condensed in command-lines **using only Windows 10-11🪟 built-in commands🎛️**.
 - Each tool can be installed separately.
 - These commands are written into Windows Registry when you install these tools.
 - No `.exe` nor `.msi` nor `.inf` to install tools. No file copied. Instant install.
