@@ -6,13 +6,13 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\*\shell\GetFileHash]
 
 ;TOOL_List-in-Clipboard.reg | List files in Clipboard
-[-HKEY_CLASSES_ROOT\Directory\shell\run100FileListClipboard]
 [-HKEY_CLASSES_ROOT\Drive\shell\run100FileListClipboard]
+[-HKEY_CLASSES_ROOT\Directory\shell\run100FileListClipboard]
 [-HKEY_CLASSES_ROOT\Directory\Background\shell\run100FileListClipboard]
 
 ;TOOL_List-in-Notepad.reg | List files in Notepad
-[-HKEY_CLASSES_ROOT\Directory\shell\run110FileListNotepad]
 [-HKEY_CLASSES_ROOT\Drive\shell\run110FileListNotepad]
+[-HKEY_CLASSES_ROOT\Directory\shell\run110FileListNotepad]
 [-HKEY_CLASSES_ROOT\Directory\Background\shell\run110FileListNotepad]
 
 ;TOOL_Lock-BitLocker-Drive.reg
@@ -20,12 +20,15 @@ Windows Registry Editor Version 5.00
 
 ;TOOL_PromptHereOptional-Git.reg | Git Bash here
 [-HKEY_CLASSES_ROOT\Directory\shell\run240Git]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\run240Git]
 
 ;TOOL_PromptHereOptional-PowerShell7.reg | PowerShell 7 here
 [-HKEY_CLASSES_ROOT\Directory\shell\run230PowerShell7]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\run230PowerShell7]
 
 ;TOOL_PromptHere-PowerShell5-ISE.reg | PowerShell 5 ISE here
 [-HKEY_CLASSES_ROOT\Directory\shell\run220PowerShell5ISE]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\run220PowerShell5ISE]
 
 ;TOOL_PromptHereW10-CMD.reg | Command Prompt here | useless in Windows 11
 [-HKEY_CLASSES_ROOT\Directory\shell\run200CommandPrompt]
@@ -33,9 +36,11 @@ Windows Registry Editor Version 5.00
 
 ;TOOL_PromptHereW10-PowerShell5.reg | PowerShell 5 here | useless in Windows 11
 [-HKEY_CLASSES_ROOT\Directory\shell\run210PowerShell5]
+[-HKEY_CLASSES_ROOT\Directory\shell\Background\run210PowerShell5]
 
 ;TOOL_PromptHereW10-WindowsTerminal.reg | Windows Terminal here | useless in Windows 11
 [-HKEY_CLASSES_ROOT\Directory\shell\run250WindowsTerminal]
+[-HKEY_CLASSES_ROOT\Directory\shell\Background\run250WindowsTerminal]
 
 ;TOOL_Shredder-Wipe-free-space.reg
 [-HKEY_CLASSES_ROOT\Drive\shell\run300WipeFreeSpace]
