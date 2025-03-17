@@ -24,7 +24,15 @@ Bundle of best ***Windows shell File Explorer context menu tools*** sorted and o
 
 Global features:
 
-- Lists folders and files from any directory (**drive** or **folder** or **shortcut `.lnk`** or **network location**) on both *File Explorer* left and right panes.
+- Lists folders and files from any directory:
+  - **drive**
+  - **folder**
+  - **shortcut `.lnk`**
+  - **network location (UNC path)**
+
+- Can be called from *File Explorer*:
+  - any **folder** on the left or the right pane
+  - the **background of a folder** in the right pane
 
 - Reads all folders and files including hidden ones.
 
