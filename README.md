@@ -2,17 +2,20 @@
 
 ## Updated 2024-03-17
 
-Bundle of best ***Windows shell File Explorer context menu tools*** sorted and organized in cascaded menus.
+Bundle of best ***Windows File Explorer tools that supercharge context menu*** sorted and organized in cascaded menus.
 
-- All tools are **light & virusfree because based on Windows 10-11🪟 built-in commands🎛️ only**.
-- Each tool can be installed separately.
-- These commands are written into Windows Registry when you install these tools.
-- No `.exe` nor `.msi` nor `.inf` to install tools. No file copied. Instant install.
+- All tools are **based on Windows 10-11🪟 built-in commands🎛️ only**.
+  - No additionnal running service.
+  - No more memory consumption.
+  - Offline installation without `.exe .msi .inf`, no file copied, so garanteed virusfree.
+- The `.reg` files are adding entries into Windows Registry when you install these tools.
+  - Instant installation.
+  - Each tool can be installed separately.
 - We recommend optional upgrades like [PowerShell 7 x64 MSI] or [Windows Terminal], because these open-source projects are pushed by *Microsoft*, and will be probably built-in next releases of Windows.
-- On **Windows 11**: \
-→ need to hold `Shift` while right-clicking on a folder \
-→ or right click on a folder then *Show more options* \
-→ or follow [these instructions](#-windows-11-new-context-menu) to remove/restore this Windows 11 extra layer
+- To use it on **Windows 11**:
+  - need to hold `Shift` while right-clicking on a folder
+  - or right click on a folder then *Show more options*
+  - or follow [these instructions](#-windows-11-new-context-menu) to remove/restore this Windows 11 extra layer
 
 > Tested on Microsoft Windows 10/11 Pro 64-bits.
 
