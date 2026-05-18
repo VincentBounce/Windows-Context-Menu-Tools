@@ -115,6 +115,8 @@ Lists files/folders contained in any folder and displays the list in a temporary
 💿 To install this tool separately, just run `TOOL_Get-fileHash.reg` and confirm 3 dialog boxes. To install [bundle it's here](#-install-all-tools).
 
 ---
+---
+---
 
 # ![wipe-free-space-icon] Overwrite deleted data - Drive shredder
 
