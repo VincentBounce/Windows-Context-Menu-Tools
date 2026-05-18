@@ -239,7 +239,7 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 
 ---
 
-# 😉 Author 🇫🇷 Vincent ᗱƆᑌᑎϹᗴ
+# 😉Author 🇫🇷 Vincent ᗱƆᑌᑎϹᗴ 👾
 
 **𝕏 [@VincentBounce](https://x.com/VincentBounce)** | **YouTube [@VincentBounce](https://www.youtube.com/@VincentBounce/)** | **Instagram [@VincentBounce](https://instagr.am/vincentbounce/)**
 
