@@ -74,6 +74,8 @@ Lists files/folders contained in any folder and displays the list in a temporary
 💿 To install this tool separately, just run `TOOL_List-in-Notepad.reg` and confirm 3 dialog boxes. To install [bundle it's here](#-install-all-tools).
 
 ---
+---
+---
 
 # ![lock-bitLocker-drive-icon] Lock BitLocker Drive
 
@@ -94,6 +96,8 @@ Lists files/folders contained in any folder and displays the list in a temporary
 
 💿 To install this tool separately, just run `TOOL_Lock-BitLocker-Drive.reg` and confirm 3 dialog boxes. To install [bundle it's here](#-install-all-tools).
 
+---
+---
 ---
 
 # ![get-filehash-icon] Calculates `SHA` and `MD5` hashes of files
@@ -130,6 +134,8 @@ Lists files/folders contained in any folder and displays the list in a temporary
 
 💿 To install this tool separately, just run `TOOL_Shredder-Wipe-free-space.reg` and confirm 3 dialog boxes. To install [bundle it's here](#-install-all-tools).
 
+---
+---
 ---
 
 # 👇 *Prompt here* Tools
@@ -209,6 +215,8 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 💿 To install this tool separately, just run `TOOL_PromptHereOptional-Git.reg` and confirm 3 dialog boxes. It replaces existing *Git* context menu. To install [bundle it's here](#-install-all-tools).
 
 ---
+---
+---
 
 # 💾 Installation
 
@@ -238,11 +246,15 @@ Let you run built-in ***Windows PowerShell*** located in Path Environment `power
 | 📦 To restore | Run `Windows11ContextMenu-restore-(need-restart).reg`, then logoff/logon. | Run `WindowsTerminalDefaultMenu-restore-(need-restart).reg`, then logoff/logon. |
 
 ---
+---
+---
 
 # 😉Author 🇫🇷 Vincent ᗱƆᑌᑎϹᗴ 👾
 
 **𝕏 [@VincentBounce](https://x.com/VincentBounce)** | **YouTube [@VincentBounce](https://www.youtube.com/@VincentBounce/)** | **Instagram [@VincentBounce](https://instagr.am/vincentbounce/)**
 
+---
+---
 ---
 
 # 🗂️ Table of contents
